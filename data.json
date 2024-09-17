@@ -1,0 +1,17 @@
+{
+    "Name": [
+        "shipra",
+        "vidhi",
+        "nikita"
+    ],
+    "Age": [
+        20,
+        22,
+        19
+    ],
+    "City": [
+        "ghaziabad",
+        "delhi",
+        "noida"
+    ]
+}
